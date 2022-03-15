@@ -1020,3 +1020,397 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001924 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/romain.nicolaon/Documents/Algosup/Programmation/git/Cooking-simulator/Cooking simulator/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/romain.nicolaon/Documents/Algosup/Programmation/git/Cooking-simulator/Cooking simulator/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 2.02 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.092 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3095ms)
+		BeginReloadAssembly (435ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (52ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (119ms)
+		EndReloadAssembly (2363ms)
+			LoadAssemblies (213ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (415ms)
+			ReleaseScriptCaches (7ms)
+			RebuildScriptCaches (62ms)
+			SetupLoadedEditorAssemblies (1473ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (47ms)
+				SetLoadedEditorAssemblies (4ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (123ms)
+				ProcessInitializeOnLoadAttributes (1185ms)
+				ProcessInitializeOnLoadMethodAttributes (112ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3726 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 19 unused Assets / (143.7 KB). Loaded Objects now: 4449.
+Memory consumption went from 284.2 MB to 284.1 MB.
+Total: 7.201250 ms (FindLiveObjects: 0.519167 ms CreateObjectMapping: 0.136375 ms MarkObjects: 6.408209 ms  DeleteObjects: 0.135625 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001522 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/romain.nicolaon/Documents/Algosup/Programmation/git/Cooking-simulator/Cooking simulator/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/romain.nicolaon/Documents/Algosup/Programmation/git/Cooking-simulator/Cooking simulator/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.078 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3080ms)
+		BeginReloadAssembly (405ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (43ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (98ms)
+		EndReloadAssembly (2420ms)
+			LoadAssemblies (251ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (416ms)
+			ReleaseScriptCaches (5ms)
+			RebuildScriptCaches (55ms)
+			SetupLoadedEditorAssemblies (1514ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (36ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (125ms)
+				ProcessInitializeOnLoadAttributes (1234ms)
+				ProcessInitializeOnLoadMethodAttributes (114ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.20 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3726 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 19 unused Assets / (143.9 KB). Loaded Objects now: 4463.
+Memory consumption went from 284.4 MB to 284.2 MB.
+Total: 3.644750 ms (FindLiveObjects: 0.503250 ms CreateObjectMapping: 0.138250 ms MarkObjects: 2.850500 ms  DeleteObjects: 0.151625 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 4622.938791 seconds.
+  path: Assets/sporty_granny.fbx
+  artifactKey: Guid(0fbfc93c5690c4c138998bd5523f4ba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sporty_granny.fbx using Guid(0fbfc93c5690c4c138998bd5523f4ba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b49311454446a74b826eee8c5064f1c1') in 0.901139 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001456 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/romain.nicolaon/Documents/Algosup/Programmation/git/Cooking-simulator/Cooking simulator/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/romain.nicolaon/Documents/Algosup/Programmation/git/Cooking-simulator/Cooking simulator/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.280 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3283ms)
+		BeginReloadAssembly (475ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (51ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (131ms)
+		EndReloadAssembly (2500ms)
+			LoadAssemblies (256ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (397ms)
+			ReleaseScriptCaches (4ms)
+			RebuildScriptCaches (62ms)
+			SetupLoadedEditorAssemblies (1580ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (42ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (131ms)
+				ProcessInitializeOnLoadAttributes (1275ms)
+				ProcessInitializeOnLoadMethodAttributes (127ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.22 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3726 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 19 unused Assets / (143.5 KB). Loaded Objects now: 4477.
+Memory consumption went from 284.8 MB to 284.7 MB.
+Total: 7.857958 ms (FindLiveObjects: 0.405458 ms CreateObjectMapping: 0.162917 ms MarkObjects: 7.119292 ms  DeleteObjects: 0.169000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001540 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/romain.nicolaon/Documents/Algosup/Programmation/git/Cooking-simulator/Cooking simulator/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/romain.nicolaon/Documents/Algosup/Programmation/git/Cooking-simulator/Cooking simulator/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.252 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3255ms)
+		BeginReloadAssembly (403ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (44ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (89ms)
+		EndReloadAssembly (2587ms)
+			LoadAssemblies (148ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (446ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (65ms)
+			SetupLoadedEditorAssemblies (1672ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (35ms)
+				SetLoadedEditorAssemblies (5ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (137ms)
+				ProcessInitializeOnLoadAttributes (1357ms)
+				ProcessInitializeOnLoadMethodAttributes (135ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.17 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3726 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 19 unused Assets / (143.6 KB). Loaded Objects now: 4491.
+Memory consumption went from 285.0 MB to 284.9 MB.
+Total: 14.248500 ms (FindLiveObjects: 0.790000 ms CreateObjectMapping: 0.180458 ms MarkObjects: 12.993333 ms  DeleteObjects: 0.280542 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1058.925264 seconds.
+  path: Assets/mutant.fbx
+  artifactKey: Guid(6b66d13c4ece04138a11ab58637deeae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mutant.fbx using Guid(6b66d13c4ece04138a11ab58637deeae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c8bee7a9e7838a3f8c77d32c3667965') in 1.028553 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000761 seconds.
+  path: Assets/Mutant_normal.png
+  artifactKey: Guid(676ce8a91017f4b06bbe9ccfe960b9ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mutant_normal.png using Guid(676ce8a91017f4b06bbe9ccfe960b9ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64beee2e4a49b232e473d77d9c39b20d') in 0.330271 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.979014 seconds.
+  path: Assets/mutant.fbx
+  artifactKey: Guid(6b66d13c4ece04138a11ab58637deeae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mutant.fbx using Guid(6b66d13c4ece04138a11ab58637deeae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c508dec8733f38a330f04d29bce87f4d') in 0.072485 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.090657 seconds.
+  path: Assets/mutant.fbx
+  artifactKey: Guid(6b66d13c4ece04138a11ab58637deeae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mutant.fbx using Guid(6b66d13c4ece04138a11ab58637deeae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaaad538690da65b2a7029de850755c8') in 0.062288 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 114.352576 seconds.
+  path: Assets/sporty_granny.fbx
+  artifactKey: Guid(0fbfc93c5690c4c138998bd5523f4ba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sporty_granny.fbx using Guid(0fbfc93c5690c4c138998bd5523f4ba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a750b44be9f49d1806ddf54a9792be45') in 0.144990 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.869665 seconds.
+  path: Assets/FitnessGrandma_diffuse.jpg
+  artifactKey: Guid(518ba28c0bfee4d0b839cff408722a78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FitnessGrandma_diffuse.jpg using Guid(518ba28c0bfee4d0b839cff408722a78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '297b1b3b51eae0498640d8c2f94188aa') in 0.739309 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/FitnessGrandma_normal.jpg
+  artifactKey: Guid(290a3b659a32643918be7686780605e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FitnessGrandma_normal.jpg using Guid(290a3b659a32643918be7686780605e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05c275550616d516002df7d7cae8dab8') in 0.013600 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.436357 seconds.
+  path: Assets/FitnessGrandma_normal.jpg
+  artifactKey: Guid(290a3b659a32643918be7686780605e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FitnessGrandma_normal.jpg using Guid(290a3b659a32643918be7686780605e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f8cbf64e93ac7bc0b5a8692a61d90c4') in 0.042950 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 227.261182 seconds.
+  path: Assets/sporty_granny.fbx
+  artifactKey: Guid(0fbfc93c5690c4c138998bd5523f4ba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sporty_granny.fbx using Guid(0fbfc93c5690c4c138998bd5523f4ba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4293d9a4e47e6589eb20a3f2fa928026') in 0.191070 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001439 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/romain.nicolaon/Documents/Algosup/Programmation/git/Cooking-simulator/Cooking simulator/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/romain.nicolaon/Documents/Algosup/Programmation/git/Cooking-simulator/Cooking simulator/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 2.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.241 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3244ms)
+		BeginReloadAssembly (495ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (50ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (158ms)
+		EndReloadAssembly (2430ms)
+			LoadAssemblies (226ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (413ms)
+			ReleaseScriptCaches (9ms)
+			RebuildScriptCaches (55ms)
+			SetupLoadedEditorAssemblies (1522ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (36ms)
+				SetLoadedEditorAssemblies (5ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (132ms)
+				ProcessInitializeOnLoadAttributes (1220ms)
+				ProcessInitializeOnLoadMethodAttributes (125ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.20 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3726 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 20 unused Assets / (144.4 KB). Loaded Objects now: 4509.
+Memory consumption went from 293.7 MB to 293.6 MB.
+Total: 3.888167 ms (FindLiveObjects: 0.502417 ms CreateObjectMapping: 0.133666 ms MarkObjects: 3.150042 ms  DeleteObjects: 0.100750 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 387.293489 seconds.
+  path: Assets/Mugs, Bowls and Plates
+  artifactKey: Guid(ebb08af10035b4aeabc17b1b1e07df41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mugs, Bowls and Plates using Guid(ebb08af10035b4aeabc17b1b1e07df41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d0102c18ea7551386e4e90863efdc1a') in 0.074590 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.434702 seconds.
+  path: Assets/Mugs, Bowls and Plates/Models
+  artifactKey: Guid(549262015a030634997c92a04cefd72a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mugs, Bowls and Plates/Models using Guid(549262015a030634997c92a04cefd72a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5376f2fe4bda73648d751291b4b25031') in 0.002491 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.055635 seconds.
+  path: Assets/Mugs, Bowls and Plates/Models/bowl01.fbx
+  artifactKey: Guid(0a73716ae73e9a4468c96965d55b0bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mugs, Bowls and Plates/Models/bowl01.fbx using Guid(0a73716ae73e9a4468c96965d55b0bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '094c03e694cc3c22cb9b3313380bf4d9') in 0.782203 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Mugs, Bowls and Plates/Models/bowl03.fbx
+  artifactKey: Guid(e84d0732e27a6b440bf3953d81d488bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mugs, Bowls and Plates/Models/bowl03.fbx using Guid(e84d0732e27a6b440bf3953d81d488bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56a7f66ec6e326a0eb7010cf3f437bc5') in 0.077262 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/Mugs, Bowls and Plates/Models/plate03.fbx
+  artifactKey: Guid(f291259abf1bd3a4481cc3f1baf9b528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mugs, Bowls and Plates/Models/plate03.fbx using Guid(f291259abf1bd3a4481cc3f1baf9b528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '499a75bfccdfca749e81429194b46d66') in 0.046318 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/Mugs, Bowls and Plates/Models/plate02.fbx
+  artifactKey: Guid(20293085696677d40a2cc969adbb2e12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mugs, Bowls and Plates/Models/plate02.fbx using Guid(20293085696677d40a2cc969adbb2e12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e6bb2032dc6076406ff685129fa6703') in 0.026603 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/Mugs, Bowls and Plates/Models/mug02.fbx
+  artifactKey: Guid(3587f44602ce32b45a0f4930835cdb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mugs, Bowls and Plates/Models/mug02.fbx using Guid(3587f44602ce32b45a0f4930835cdb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '456f02c15bbc1411b712cd566534810f') in 0.047851 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/Mugs, Bowls and Plates/Models/plate01.fbx
+  artifactKey: Guid(6f0a4d48fa5ef4b43a409c7ba4089943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mugs, Bowls and Plates/Models/plate01.fbx using Guid(6f0a4d48fa5ef4b43a409c7ba4089943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8f267ce42b9c7d76cff717995a04198') in 0.022616 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 155.843891 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79842766b460edbeab6a34051e857a80') in 0.003508 seconds 
