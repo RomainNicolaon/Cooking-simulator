@@ -1,1 +1,1 @@
-{"m_DefineSymbols":{"m_Value":{"Standalone":"STARTER_ASSETS_PACKAGES_CHECKED"},"m_Initialized":true},"m_AllowUnsafeCode":{"m_Value":false,"m_Initialized":false},"m_ScriptDebugInfoEnabled":{"m_Value":false,"m_Initialized":true}}
+{"m_DefineSymbols":{"m_Value":{"Android":"CROSS_PLATFORM_INPUT;MOBILE_INPUT","Standalone":"STARTER_ASSETS_PACKAGES_CHECKED;CROSS_PLATFORM_INPUT","iPhone":"CROSS_PLATFORM_INPUT;MOBILE_INPUT"},"m_Initialized":true},"m_AllowUnsafeCode":{"m_Value":false,"m_Initialized":false},"m_ScriptDebugInfoEnabled":{"m_Value":false,"m_Initialized":true}}
